@@ -8,7 +8,7 @@
 - 👀 I’m interested in Cloud computing , Machine Learning and IOT.
 - 🌱 I’m currently learning Data Computing at KL University Hyderabad.
 - 💞️ I’m looking to collaborate on projects related to ML.
-- 📫 How to reach me https://www.linkedin.com/in/jagadish-sri-bhargav-2511661a7/
+- 📫 Reach me at https://www.linkedin.com/in/jagadish-sri-bhargav-2511661a7/
 
 
 
